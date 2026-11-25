@@ -1,0 +1,12 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Day 7: a small model of how the input cost of a chat grows with every message. No dependencies.",
+  "main": "meter.js",
+  "scripts": {
+    "test": "node test.js",
+    "simulate": "node simulate.js"
+  },
+  "author": "xskriptx",
+  "license": "MIT"
+}

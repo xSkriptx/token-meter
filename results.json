@@ -1,0 +1,42 @@
+{
+  "turns": 20,
+  "per_turn_input_full": [
+    260,
+    570,
+    880,
+    1190,
+    1500,
+    1810,
+    2120,
+    2430,
+    2740,
+    3050,
+    3360,
+    3670,
+    3980,
+    4290,
+    4600,
+    4910,
+    5220,
+    5530,
+    5840,
+    6150
+  ],
+  "first_turn_input": 260,
+  "last_turn_input": 6150,
+  "growth_x": 23.7,
+  "full": {
+    "input_total": 64100,
+    "output_total": 5000,
+    "typed_and_read": 6200,
+    "input_vs_typed_x": 10.3,
+    "units": 89100,
+    "units_if_cached": 32490
+  },
+  "window4": {
+    "input_total": 16670,
+    "last_turn_input": 880,
+    "saved_input_pct": 74,
+    "units": 41670
+  }
+}
